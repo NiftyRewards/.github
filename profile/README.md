@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.niftyr3wrds.com/">
-<img src="logo.png" width=200/>
+<img src="./logo.png" width=200/>
 </a>
 
 🌐 Website: <https://www.niftyr3wrds.com/>
