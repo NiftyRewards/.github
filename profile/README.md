@@ -1,12 +1,20 @@
-## NIFTY REWARDS 👋
+# NIFTY REWARDS
 
-<!--
+![NiftyRewardsLogo.png](./images/logo.png)
 
-**Here are some ideas to get you started:**
+🌐 Website: <https://www.niftyr3wrds.com/>
+🖌️ UI/UX Design: <https://www.figma.com/file/enPuJkstN4IviMBiWj7GWv/NiftyRewards>
+🖥️ Frontend: <https://github.com/NiftyRewards/nifty-rewards-interface>
+💡 Backend: <https://github.com/NiftyRewards/nifty-rewards-backend>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Images
+
+![1.png](./images/NiftyRewards Pitch Deck.png)
+![2.png](./images/NiftyRewards Pitch Deck (1).png)
+![3.png](./images/NiftyRewards Pitch Deck (2).png)
+![4.png](./images/NiftyRewards Pitch Deck (3).png)
+![5.png](./images/NiftyRewards Pitch Deck (4).png)
+![6.png](./images/NiftyRewards Pitch Deck (5).png)
+![7.png](./images/NiftyRewards Pitch Deck (6).png)
+![8.png](./images/NiftyRewards Pitch Deck (7).png)
+![9.png](./images/NiftyRewards Pitch Deck (8).png)
