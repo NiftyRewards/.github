@@ -13,7 +13,7 @@
 
 💡 Backend: <https://github.com/NiftyRewards/nifty-rewards-backend>
 
-![1.png](NiftyRewards%20Pitch%20Deck.png)
+![1.png](<https://github.com/NiftyRewards/.github/blob/main/profile/NiftyRewards%20Pitch%20Deck.png>)
 ![2.png](<NiftyRewards%20Pitch%20Deck%20(1).png>)
 ![3.png](<NiftyRewards%20Pitch%20Deck%20(2).png>)
 ![4.png](<NiftyRewards%20Pitch%20Deck%20(3).png>)
