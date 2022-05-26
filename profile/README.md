@@ -12,6 +12,8 @@
 🖥️ Frontend: <https://github.com/NiftyRewards/nifty-rewards-interface>
 
 💡 Backend: <https://github.com/NiftyRewards/nifty-rewards-backend>
+  
+📑 Deck: <https://docs.google.com/presentation/d/1GWGKMi9xlvFlgEptCmQaevaSQOz7u20jVbQlKPMKhtw>
 
 ![1.png](<https://github.com/NiftyRewards/.github/blob/main/profile/NiftyRewards%20Pitch%20Deck.png>)
 ![2.png](<https://github.com/NiftyRewards/.github/blob/main/profile/NiftyRewards%20Pitch%20Deck%20(1).png>)
